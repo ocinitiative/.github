@@ -4,13 +4,30 @@ The Open Course Initiative, launched by the Fu Foundation, is an innovative prog
 
 With the Open Course Initiative, students can gain valuable knowledge, build their skills, and learn from experts in the field. Furthermore, it provides a platform for students to connect with each other and to form lifelong learning relationships, allowing them to learn in a flexible, interactive, and engaging environment. Students have the chance to gain a better understanding of the subject matter and to broaden their horizons. Through the initiative, students can access online resources, participate in online discussions, and take part in collaborative activities. In addition, they are able to gain valuable experience in working with others and to learn in an environment that encourages collaboration and creativity.
 
-<!--
+# Course offerings
 
-**Here are some ideas to get you started:**
+The Open Course Initiative offers a wide range of courses, including:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Fu Foundation School of Computing**
+- CS 10 - Introduction to Version Control with Git
+- CS 11a - Introduction to Markdown
+- CS 149 - Programming with Rust
+- CS 310 - Introduction to System Design
+
+**Boston University**
+- Department of History Of Art & Architecture
+  - AH 395 - History of Photography
+- Department of Mathematics and Statistics
+  - MA 214 - Applied Statistics
+- Frederick S. Pardee School of Global Studies
+  - IR 271 - Introduction to International Relations
+  - IR 350 - History of International Relations since 1945
+- Faculty of Computing and Data Sciences
+  - DS 110 - Introduction to Data Science with Python
+  - DS 120 - Foundations of Data Science
+  - DS 121 - Foundations of Data Science II
+  - DS 122 - Foundations of Data Science III
+  - DS 210 - Programming for Data Science
+  - DS 310 - Data Mechanics
+  - DS 320 - Algorithms for Data Science
+  - DS 340 - Introduction to Machine Learning and AI
