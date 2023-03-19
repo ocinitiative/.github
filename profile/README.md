@@ -15,7 +15,7 @@ The Open Course Initiative offers a wide range of courses, including:
 - CS 310 - Introduction to System Design
 
 **Boston University**
-- Department of History Of Art & Architecture
+- Department of History of Art & Architecture
   - AH 395 - History of Photography
 - Department of Mathematics and Statistics
   - MA 214 - Applied Statistics
