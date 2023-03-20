@@ -9,10 +9,11 @@ With the Open Course Initiative, students can gain valuable knowledge, build the
 The Open Course Initiative offers a wide range of courses, including:
 
 **Fu Foundation School of Computing**
-- CS 10 - Introduction to Version Control with Git
-- CS 11a - Introduction to Markdown
-- CS 149 - Programming with Rust
-- CS 310 - Introduction to System Design
+- Department of Electrical Engineering and Computer Science
+  - CS 10 - Introduction to Version Control with Git
+  - CS 11a - Introduction to Markdown
+  - CS 149 - Programming with Rust
+  - CS 310 - Introduction to System Design
 
 **Boston University**
 - Department of History of Art & Architecture
@@ -31,3 +32,7 @@ The Open Course Initiative offers a wide range of courses, including:
   - DS 310 - Data Mechanics
   - DS 320 - Algorithms for Data Science
   - DS 340 - Introduction to Machine Learning and AI
+
+**Massachusetts Institute of Technology**
+- Department of Electrical Engineering and Computer Science
+  - 6.S191 - Introduction to Deep Learning
