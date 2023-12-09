@@ -1,1 +1,1 @@
-# Fu Foundation Open Course Initiative Public Profile
+# Open Course Initiative
